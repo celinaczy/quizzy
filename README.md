@@ -42,7 +42,11 @@ Quizzy is a Python Flask-based multiplayer quiz web app ready to run in containe
       ```shell
       $ python3 wsgi.py
       ```
+     or
 
+      ```shell
+      $ python wsgi.py
+      ```
 ### To install and run quizzy containers in production mode using Docker:
 
 1. ### Install Docker
